@@ -14,6 +14,7 @@
 		94419C9727F2544900EA4111 /* Ind03_Quinton_Kolton.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 94419C9527F2544900EA4111 /* Ind03_Quinton_Kolton.xcdatamodeld */; };
 		94419C9927F2544A00EA4111 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94419C9827F2544A00EA4111 /* Assets.xcassets */; };
 		94419C9C27F2544A00EA4111 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94419C9A27F2544A00EA4111 /* LaunchScreen.storyboard */; };
+		94EA8F4227F255BD0003F02C /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EA8F4127F255BD0003F02C /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		94419C9827F2544A00EA4111 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94419C9B27F2544A00EA4111 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94419C9D27F2544A00EA4111 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94EA8F4127F255BD0003F02C /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				94419C8C27F2544900EA4111 /* AppDelegate.swift */,
 				94419C8E27F2544900EA4111 /* SceneDelegate.swift */,
 				94419C9027F2544900EA4111 /* ViewController.swift */,
+				94EA8F4127F255BD0003F02C /* TableViewController.swift */,
 				94419C9227F2544900EA4111 /* Main.storyboard */,
 				94419C9827F2544A00EA4111 /* Assets.xcassets */,
 				94419C9A27F2544A00EA4111 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				94419C9127F2544900EA4111 /* ViewController.swift in Sources */,
 				94419C8D27F2544900EA4111 /* AppDelegate.swift in Sources */,
 				94419C9727F2544900EA4111 /* Ind03_Quinton_Kolton.xcdatamodeld in Sources */,
+				94EA8F4227F255BD0003F02C /* TableViewController.swift in Sources */,
 				94419C8F27F2544900EA4111 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
